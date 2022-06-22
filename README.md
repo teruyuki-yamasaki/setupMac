@@ -2,7 +2,7 @@
 
 ## [MacOS版Anacondaのインストール](https://www.python.jp/install/anaconda/macos/install.html)
 ### Download the package 
-  - Download the 64-Bit Graphical Installer from https://www.anaconda.com/products/individual/ 
+  - Download the **64-Bit Graphical Installer** from https://www.anaconda.com/products/individual/ 
   
 ### Install anaconda 
   - Execute the downloaded package to begin installing 
