@@ -45,7 +45,7 @@
   
   - You can also use 
   ```
-  conda info --envs.
+  conda info --envs
   ```
 
 ## [``conda`` Commands](https://www.python.jp/install/anaconda/conda.html)
